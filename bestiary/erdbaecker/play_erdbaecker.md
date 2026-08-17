@@ -60,25 +60,45 @@ dead into the technique by which it is not.
 
 The closed cast. A production draws from here and no further.
 
-- **das Wesen**, the fire, speaking: no light, no flame, and no nostalgia left.
-  It grinds. It is the same entity, two types down.
-- **der Truppführer**, the fireground: the same competence as before, now with
-  better instruments, closing the manifold and standing the crew down.
-- **die Zeugin**, the woman on the path: a waxed jacket, a collar pulled up, three
-  metres from a grey crust on which raindrops bead like mercury and vanish
-  hissing.
-- **der Waldboden**, the place: five centimetres down, quartz sand, silt, matted
-  needle residue pressed into a tough cool blanket, and the dead weight of the
-  world on top of it.
-- **die Kruste**, the piece: the baked surface between the fire and the world.
-  It is the thing the fire makes, the thing the instrument reads, and the thing
-  the boot trusts. It reports the fire wrongly in every direction.
-- **die Drohne**, the piece: thermal imaging, honest and useless.
-- **Abschluss**, the plan: the stand-down scheme, run by the fireground. Close the
-  manifold, pack up, sign it off, go home.
-- **die Kalte Stimme**, the pitch: the default key. It reports.
+**Personas:**
 
-Files for these land with the board; here they are named, not linked.
+- [das Wesen](persona_das_wesen.md), the fire, speaking: no light, no flame, and
+  no nostalgia left. It grinds. It is the same entity, two types down.
+- [der Truppführer](persona_der_truppfuehrer.md), the fireground: the same
+  competence as before, now with better instruments, closing the manifold and
+  standing the crew down.
+- [die Zeugin](persona_die_zeugin.md), the woman on the path: a waxed jacket, a
+  collar pulled up, three metres from a grey crust on which raindrops bead like
+  mercury and vanish hissing.
+
+**Processes:**
+
+- [das Zermahlen](process_zermahlen.md), the entity's way of eating: the burn
+  held at the very limit of what will carry.
+- [das Versiegeln](process_versiegeln.md), the technique it makes out of its own
+  weakness: vapour driven up into cold soil until the pores close.
+
+**Places:**
+
+- [der Waldboden](place_der_waldboden.md): five centimetres down, quartz sand,
+  silt, matted needle residue pressed into a tough cool blanket, and the dead
+  weight of the world on top of it.
+
+**Pieces:**
+
+- [die Kruste](piece_die_kruste.md): the baked surface between the fire and the
+  world. It is the thing the fire makes, the thing the instrument reads, and the
+  thing the boot trusts. It reports the fire wrongly in every direction.
+- [die Drohne](piece_die_drohne.md): thermal imaging, honest and useless.
+
+**Plans:**
+
+- [der Abschluss](plan_abschluss.md), the stand-down scheme, run by the
+  fireground. Close the manifold, pack up, sign it off, go home.
+
+**Pitch:**
+
+- [die Kalte Stimme](pitch_die_kalte_stimme.md), the default key. It reports.
 
 ## Triggers
 

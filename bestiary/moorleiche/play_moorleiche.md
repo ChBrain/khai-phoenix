@@ -61,29 +61,51 @@ by people who were sure, and that used their certainty as a building material.
 
 The closed cast. A production draws from here and no further.
 
-- **das Wesen**, the fire, speaking: the same entity as the birth, now typed, and
-  it remembers. Blind by choice, patient, chewing.
-- **der Truppführer**, the fireground: competent, tired, and finished. He does the
-  correct thing at every step.
-- **die Einsatzleitung**, the office: the position that decides a fire is out and
-  signs a date to it.
-- **die Spaziergänger**, the people on the heath: dogs, photographs of the mist,
-  and a preference for the snow-free strips of moss where the ground is warm and
-  soft underfoot.
-- **das Moor**, the place: the wet corpses of ancient forests, layered, iron in
-  the mouth, and warm at depth all winter.
-- **die Stahllanze**, the piece: the injection lance, hundred-degree steam, driven
-  down to kill and building tunnels instead.
-- **die Birke**, the piece: a birch upright in the frost beside the boardwalk,
-  blind to the fact that its roots are already white ash.
-- **Löschen**, the plan: the suppression scheme, run by the Einsatzleitung, whose
-  targets settle above ground and never below.
-- **Überwintern**, the plan: the entity's own scheme, which is simply to last
-  until the wind swings east.
-- **die Kalte Stimme**, the pitch: the default key. It reports. It is neither
-  monster nor victim.
+**Personas:**
 
-Files for these land with the board; here they are named, not linked.
+- [das Wesen](persona_das_wesen.md), the fire, speaking: the same entity as the
+  birth, now typed, and it remembers. Blind by choice, patient, chewing.
+- [der Truppführer](persona_der_truppfuehrer.md), the fireground: competent,
+  tired, and finished. He does the correct thing at every step.
+- [die Spaziergänger](persona_die_spaziergaenger.md), the people on the heath:
+  dogs, photographs of the mist, and a preference for the snow-free strips of
+  moss where the ground is warm and soft underfoot.
+
+**Positions:**
+
+- [die Einsatzleitung](position_einsatzleitung.md), the office: the position that
+  decides a fire is out and signs a date to it.
+
+**Processes:**
+
+- [das Schwelen](process_schwelen.md), the entity's own way of eating: the
+  flameless downward burn, which the surface cannot see.
+- [die Belüftung](process_belueftung.md), the paradox: what a lance does to a
+  compacted bed, whatever it was driven in to do.
+
+**Places:**
+
+- [das Moor](place_das_moor.md): the wet corpses of ancient forests, layered,
+  iron in the mouth, and warm at depth all winter.
+
+**Pieces:**
+
+- [die Stahllanze](piece_die_stahllanze.md): the injection lance, hundred-degree
+  steam, driven down to kill and building tunnels instead.
+- [die Birke](piece_die_birke.md): a birch upright in the frost beside the
+  boardwalk, blind to the fact that its roots are already white ash.
+
+**Plans:**
+
+- [Löschen](plan_loeschen.md), the suppression scheme, run by the
+  Einsatzleitung, whose targets settle above ground and never below.
+- [Überwintern](plan_ueberwintern.md), the entity's own scheme, which is simply
+  to last until the wind swings east.
+
+**Pitch:**
+
+- [die Kalte Stimme](pitch_die_kalte_stimme.md), the default key. It reports. It
+  is neither monster nor victim.
 
 ## Triggers
 
