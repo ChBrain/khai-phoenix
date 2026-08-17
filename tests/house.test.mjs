@@ -8,13 +8,37 @@ import { validateProjectLanguages } from "@chbrain/khai-language";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
+// The engines' own playwright instructions split this, and the split is the
+// reason for the one override below.
+//
+// fire asks a place to link "the mode of its burn regime": creep it has low and
+// often, the exclusion that fights and defers it. Those are standing states, and
+// a forest is in exclusion for eighty years. That belongs on a place, so it
+// stays at the level fire declares.
+//
+// combustion asks for "the combustion phenomenon it shows", and says plainly:
+// "not the place's abstract burn regime (that is fire)". A phenomenon is an
+// event. A forest is combustible always and crowning only on the day, so binding
+// it into Shown fixes one story into the element that should hold the standing
+// conditions, and Shown is present tense, so a place that catches fire during
+// the play would open by claiming the fire it does not yet have.
+//
+// Both instructions gate their wiring on "a place whose fire is an actor". The
+// manifest cannot express that condition, so the requirement lands on every
+// place file regardless. Downgrading the event-level one restores the condition
+// in practice and keeps the nudge. The phenomenon stays wired through the
+// processes, which link their members directly.
+const LEVELS = {
+  "combustion:place:Shown": "warn",
+};
+
 // Every play in the Phoenix house conforms to the canon. Green on an
 // empty house (no entities yet); as entities land, each is validated against its type
 // and the wiring the installed engines declare. The house holds; the entities are
 // written in khai-playwright mode.
 describe("Phoenix house: the bestiary conforms to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
-    const results = validateProject({ root, contentDir: join(root, "bestiary") });
+    const results = validateProject({ root, contentDir: join(root, "bestiary"), levels: LEVELS });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     // Advisory findings (e.g. a Company element no plot casts) do not fail the
     // build, but they are surfaced in the CI log so the drift is visible here
@@ -25,7 +49,7 @@ describe("Phoenix house: the bestiary conforms to the canon", () => {
   });
 
   it("the management cast conforms; every position has a persona", () => {
-    const results = validateProject({ root, contentDir: join(root, "management") });
+    const results = validateProject({ root, contentDir: join(root, "management"), levels: LEVELS });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });
