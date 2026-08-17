@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-phoenix",
-  "version": "0.0.0",
+  "version": "0.3.0",
   "description": "khai: the Phoenix, a bestiary of fire. Entities staged with khai, each grounded in the fire and combustion engines.",
   "type": "module",
   "exports": {

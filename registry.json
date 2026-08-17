@@ -1,6 +1,25 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-phoenix",
-  "version": "0.0.0",
-  "bestiary": []
+  "version": "0.3.0",
+  "bestiary": [
+    {
+      "kind": "bestiary",
+      "id": "erdbaecker",
+      "title": "The Earth Baker",
+      "description": "A fire survives by becoming undetectable, and the mineral soil that nearly starves it is the same thing that hides it."
+    },
+    {
+      "kind": "bestiary",
+      "id": "moorleiche",
+      "title": "Bog Body",
+      "description": "A fire declared extinguished goes underground into peat, and all that is done to kill it there feeds it instead."
+    },
+    {
+      "kind": "bestiary",
+      "id": "zunderkind",
+      "title": "Tinder Child",
+      "description": "A fire wakes in dry needles with no idea what it is, eats its way across three valleys, and arrives at a self."
+    }
+  ]
 }
