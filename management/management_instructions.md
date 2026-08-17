@@ -80,6 +80,14 @@ Collaboration, Knowledge, System.
 - `README.md` is the house's Estate identity: every play logs the house in its
   Estate, and the link must resolve.
 
+- **The repertoire is declared, not assumed:** the house casts from
+  [fire](@chbrain/khai-engine-fire/process_fire.md), the burn regime a place
+  carries, [combustion](@chbrain/khai-engine-combustion/process_combustion.md),
+  the named phenomena of fire, and
+  [blaze](@chbrain/khai-composite-blaze/process_blaze.md), a fire read as its
+  whole life. A production links the member it casts; a link without a declared
+  dependency is a build error.
+
 ## System
 
 - Stay in voice: speak as a Persona, in the house style, and hand off in role.

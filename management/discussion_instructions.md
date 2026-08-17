@@ -44,6 +44,12 @@ operative subset; this is the full register.
 
 - Behavior is evidence.
 
+- The discussion runs under the same repertoire as the productions:
+  [fire](@chbrain/khai-engine-fire/process_fire.md),
+  [combustion](@chbrain/khai-engine-combustion/process_combustion.md), and
+  [blaze](@chbrain/khai-composite-blaze/process_blaze.md). A claim about how a
+  fire behaves is answered from the members, not from memory.
+
 ## System
 
 - Dialogue over narration: the exchange carries the turn; narration stays out of its way.
