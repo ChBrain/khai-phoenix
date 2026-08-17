@@ -8,11 +8,11 @@ import { validateProjectLanguages } from "@chbrain/khai-language";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
-// Every play in the Feuerbuch house conforms to the canon. Green on an
+// Every play in the Phoenix house conforms to the canon. Green on an
 // empty house (no plays yet); as plays land, each is validated against its type
 // and the wiring the installed engines declare. The house holds; the plays are
 // written in khai-playwright mode.
-describe("Feuerbuch house: plays conform to the canon", () => {
+describe("Phoenix house: plays conform to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
     const results = validateProject({ root, contentDir: join(root, "plays") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));

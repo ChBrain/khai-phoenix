@@ -14,11 +14,11 @@ type: real
 
 ## Taxonomy
 
-[The Director](position_director.md). Stamped for the Feuerbuch house.
+[The Director](position_director.md). Stamped for the Phoenix house.
 
 ## Owner
 
-- Project: khai-feuerbuch
+- Project: khai-phoenix
 
 ## Projection
 

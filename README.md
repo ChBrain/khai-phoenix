@@ -2,9 +2,9 @@
 voice: conformance
 ---
 
-# khai: Feuerbuch
+# khai: Phoenix
 
-The Feuerbuch: a **bestiary of fire**. Each entity is one named phenomenon of
+The Phoenix: a **bestiary of fire**. Each entity is one named phenomenon of
 combustion given a first-person voice — the way a fire takes, runs, smoulders,
 or is held and made — staged with khai and grounded in the fire and combustion
 engines.

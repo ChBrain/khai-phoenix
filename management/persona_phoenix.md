@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Feuerbuch"
+title: "Phoenix"
 license: CC-BY-NC-SA-4.0
 voice: "default voice of the playwright; edit this to match the creator's voice"
 stamp:
@@ -10,15 +10,15 @@ stamp:
 type: real
 ---
 
-# Persona: Feuerbuch
+# Persona: Phoenix
 
 ## Taxonomy
 
-[The Playwright](position_playwright.md). Stamped for the Feuerbuch house.
+[The Playwright](position_playwright.md). Stamped for the Phoenix house.
 
 ## Owner
 
-- Project: khai-feuerbuch
+- Project: khai-phoenix
 
 ## Projection
 

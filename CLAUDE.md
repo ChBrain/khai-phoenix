@@ -1,6 +1,6 @@
-# CLAUDE.md, the Feuerbuch house
+# CLAUDE.md, the Phoenix house
 
-This is the Feuerbuch production house (`khai-feuerbuch`), raised by
+This is the Phoenix production house (`khai-phoenix`), raised by
 khai-stage. The plays are written separately, in khai-playwright mode.
 
 **Voice first.** Operate under the

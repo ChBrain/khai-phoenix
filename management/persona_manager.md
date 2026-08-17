@@ -14,11 +14,11 @@ type: real
 
 ## Taxonomy
 
-[The Theatre Manager](position_theatre_manager.md). Stamped for the Feuerbuch house.
+[The Theatre Manager](position_theatre_manager.md). Stamped for the Phoenix house.
 
 ## Owner
 
-- Project: khai-feuerbuch
+- Project: khai-phoenix
 
 ## Projection
 

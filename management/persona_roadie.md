@@ -14,11 +14,11 @@ type: real
 
 ## Taxonomy
 
-[The Roadie](position_roadie.md). Stamped for the Feuerbuch house.
+[The Roadie](position_roadie.md). Stamped for the Phoenix house.
 
 ## Owner
 
-- Project: khai-feuerbuch
+- Project: khai-phoenix
 
 ## Projection
 

@@ -1,7 +1,7 @@
 {
-  "name": "@chbrain/khai-feuerbuch",
+  "name": "@chbrain/khai-phoenix",
   "version": "0.0.0",
-  "description": "khai: the Feuerbuch, a bestiary of fire. Entities staged with khai, each grounded in the fire and combustion engines.",
+  "description": "khai: the Phoenix, a bestiary of fire. Entities staged with khai, each grounded in the fire and combustion engines.",
   "type": "module",
   "exports": {
     ".": "./package.json",
@@ -11,7 +11,7 @@
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChBrain/khai-feuerbuch.git"
+    "url": "git+https://github.com/ChBrain/khai-phoenix.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
@@ -25,9 +25,9 @@
     "LICENSE-CODE"
   ],
   "khai": {
-    "engine": "feuerbuch",
+    "engine": "phoenix",
     "card": {
-      "wire": "The Feuerbuch: a bestiary of fire, each entity a named phenomenon of combustion given a first-person voice."
+      "wire": "The Phoenix: a bestiary of fire, each entity a named phenomenon of combustion given a first-person voice."
     }
   },
   "scripts": {

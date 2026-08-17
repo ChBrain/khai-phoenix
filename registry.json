@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "name": "@chbrain/khai-feuerbuch",
+  "name": "@chbrain/khai-phoenix",
   "version": "0.0.0",
   "plays": []
 }
