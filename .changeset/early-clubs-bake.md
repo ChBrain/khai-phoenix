@@ -1,4 +1,4 @@
 ---
 ---
 
-Cast the company and switch the collection to the bestiary. Names the four house positions after historical figures of fire, each written with its own internal tension and a standing quarrel with another; renames the collection from plays to bestiary (canon play items, as the misfits house does). Ships no entity.
+Store the three published runs as raw captures under the feuerwesen umbrella, so the analysis does not have to re-collect them each session. Untyped for now: they carry no khai type until the performance draft settles where the script lives.
