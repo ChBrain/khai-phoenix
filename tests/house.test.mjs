@@ -68,6 +68,12 @@ describe("Phoenix house: the bestiary conforms to the canon", () => {
           while ((m = re.exec(content))) {
             const target = m[1].split("#")[0];
             if (!target || /^[a-z]+:\/\//i.test(target)) continue;
+            // A package specifier is not a path: engine and composite members are
+            // linked as `@scope/pkg/member.md` and resolve through npm, not the
+            // tree. The wiring check in khai-tests requires exactly this form, so
+            // treating its slashes as directory nesting would forbid a play from
+            // casting the repertoire its house declares.
+            if (target.startsWith("@")) continue;
 
             // Relative link must be strictly local (no traversal or folder nesting)
             if (target.includes("..") || target.includes("/") || target.includes("\\")) {
