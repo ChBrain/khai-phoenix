@@ -18,7 +18,7 @@
     "access": "public"
   },
   "files": [
-    "plays/**",
+    "bestiary/**",
     "registry.json",
     "README.md",
     "LICENSE",
@@ -28,6 +28,11 @@
     "engine": "phoenix",
     "card": {
       "wire": "The Phoenix: a bestiary of fire, each entity a named phenomenon of combustion given a first-person voice."
+    },
+    "collection": {
+      "dir": "bestiary",
+      "key": "bestiary",
+      "anchor": "play_"
     }
   },
   "scripts": {

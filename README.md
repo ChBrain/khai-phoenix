@@ -19,7 +19,7 @@ This README is the house's **Estate identity**, the production that answers for
 the whole run. Every entity links this house in its Estate (E); one with no
 Estate is not yet a production.
 
-- **`plays/`** holds the productions, written in khai-playwright mode.
+- **`bestiary/`** holds the productions, written in khai-playwright mode.
 - **how it was built:** raised by khai-stage (the impresario's generator), wired
   to the khai canon and kit, gated, and protected. See `CLAUDE.md`.
 

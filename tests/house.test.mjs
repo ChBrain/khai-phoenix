@@ -9,12 +9,12 @@ import { validateProjectLanguages } from "@chbrain/khai-language";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 // Every play in the Phoenix house conforms to the canon. Green on an
-// empty house (no plays yet); as plays land, each is validated against its type
-// and the wiring the installed engines declare. The house holds; the plays are
+// empty house (no entities yet); as entities land, each is validated against its type
+// and the wiring the installed engines declare. The house holds; the entities are
 // written in khai-playwright mode.
-describe("Phoenix house: plays conform to the canon", () => {
+describe("Phoenix house: the bestiary conforms to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
-    const results = validateProject({ root, contentDir: join(root, "plays") });
+    const results = validateProject({ root, contentDir: join(root, "bestiary") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     // Advisory findings (e.g. a Company element no plot casts) do not fail the
     // build, but they are surfaced in the CI log so the drift is visible here
@@ -46,7 +46,7 @@ describe("Phoenix house: plays conform to the canon", () => {
   });
 
   it("every play is isolated (no relative links pointing outside the play's directory)", () => {
-    const playsDir = join(root, "plays");
+    const entityDir = join(root, "bestiary");
     const errors = [];
 
     function walk(dir) {
@@ -56,9 +56,9 @@ describe("Phoenix house: plays conform to the canon", () => {
           if (entry.name.startsWith(".") || entry.name === "node_modules") continue;
           walk(fullPath);
         } else if (entry.name.endsWith(".md")) {
-          // Only check files inside a play subdirectory (a child directory of plays/)
+          // Only check files inside a play subdirectory (a child directory of bestiary/)
           const relativeDir = dirname(fullPath)
-            .slice(playsDir.length)
+            .slice(entityDir.length)
             .replace(/^[/\\]+/, "");
           if (!relativeDir) continue;
 
@@ -78,7 +78,7 @@ describe("Phoenix house: plays conform to the canon", () => {
       }
     }
 
-    walk(playsDir);
+    walk(entityDir);
     expect(errors).toEqual([]);
   });
 });

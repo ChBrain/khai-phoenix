@@ -68,6 +68,6 @@ What the house refuses to model, and to whom it delegates.
 Source to constraint, per file.
 
 - **the house ([README.md](README.md))**: The Estate identity that answers for the entire run.
-- **the productions (`plays/`)**: The individual staging packages, each containing the play definition, personas, positions, pieces, places, processes, and plots.
+- **the productions (`bestiary/`)**: The individual staging packages, each containing the play definition, personas, positions, pieces, places, processes, and plots.
 - **the engines (`package.json` dependencies)**: The declared repertoire — `fire`, `combustion`, and `blaze` — from which every production casts its mechanism. A link without a declared dependency is a build error.
 - **the gates (`tests/`, `khai-guard.config.json`)**: The conformance and governance checks ensuring that all plays comply with the canon.

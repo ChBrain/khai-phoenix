@@ -1,5 +1,5 @@
 {
-  "source": ["plays/**"],
+  "source": ["bestiary/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
   "licensePolicy": {
@@ -24,7 +24,7 @@
     ],
     "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
     "lanes": [
-      { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
+      { "pattern": "entity/*", "layer": "solution", "allow": ["bestiary/**"] },
       {
         "pattern": "governance/*",
         "layer": "governance",
