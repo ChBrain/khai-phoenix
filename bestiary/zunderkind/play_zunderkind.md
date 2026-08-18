@@ -53,28 +53,48 @@ is a self being assembled out of a forest.
 
 The closed cast. A production draws from here and no further.
 
-- **das Wesen**, the fire, speaking: newborn, delighted, and without a type. It is
-  the same entity that appears in every later beast, before it has a form to
-  lose.
-- **der Wind**, the second element: a partner, never a servant, arriving with warm
-  breath out of France and dusty spirits. He is native to this production only.
-  Later beasts burn where he cannot reach, and his absence there is a statement
-  rather than an omission.
-- **der Truppführer**, the fireground: soot in the pores, radio traffic, and the
-  flat exhausted speech of the fourth day. He knows what it is. He never speaks
-  to it.
-- **die Nachbarn**, the people downwind: papers, birth certificates, a mother's
-  ring, a cat, a garden finished in spring.
-- **der Wald**, the place: spruce monoculture across the ridges of the Eifel, dry
-  to the ground, three hundred hectares of it.
-- **die Schneise**, the piece: the firebreak, a line drawn on the assumption that
-  fire travels along the ground.
-- **Riegelstellung**, the plan: the containment scheme, held by the fireground,
-  whose targets are set at the state they stand in when the curtain rises.
-- **die Kinderstimme**, the pitch: the default key. Everything is described by a
-  voice that has no word for harm.
+**Personas:**
 
-Files for these land with the board; here they are named, not linked.
+- [das Wesen](persona_das_wesen.md), the fire, speaking: newborn, delighted, and
+  without a type. It is the same entity that appears in every later beast, before
+  it has a form to lose.
+- [der Wind](persona_der_wind.md), the second element: a partner, never a
+  servant, arriving with warm breath out of France and dusty spirits. He is
+  native to this production only. Later beasts burn where he cannot reach, and
+  his absence there is a statement rather than an omission.
+- [der Truppführer](persona_der_truppfuehrer.md), the fireground: soot in the
+  pores, radio traffic, and the flat exhausted speech of the fourth day. He knows
+  what it is. He never speaks to it.
+- [die Nachbarn](persona_die_nachbarn.md), the people downwind: papers, birth
+  certificates, a mother's ring, a cat, a garden finished in spring.
+
+**Processes:**
+
+- [das Fressen](process_das_fressen.md), the eating that is also the growing:
+  the entity's only way of becoming anything.
+- [der Lauf](process_der_lauf.md), the run: two elements in phase, and the reason
+  the ground stops being geography.
+
+**Places:**
+
+- [der Wald](place_der_wald.md): spruce monoculture across the ridges of the
+  Eifel, dry to the ground, three hundred hectares of it.
+
+**Pieces:**
+
+- [die Schneise](piece_die_schneise.md): the firebreak, a line drawn on the
+  assumption that fire travels along the ground.
+
+**Plans:**
+
+- [Riegelstellung](plan_riegelstellung.md), the containment scheme, held by the
+  fireground, whose targets are set at the state they stand in when the curtain
+  rises.
+
+**Pitch:**
+
+- [die Kinderstimme](pitch_die_kinderstimme.md), the default key. Everything is
+  described by a voice that has no word for harm.
 
 ## Triggers
 
