@@ -11,15 +11,15 @@
     },
     {
       "kind": "bestiary",
-      "id": "moorleiche",
-      "title": "Bog Body",
-      "description": "A fire declared extinguished goes underground into peat, and all that is done to kill it there feeds it instead."
+      "id": "frostschlaefer",
+      "title": "Frost Sleeper",
+      "description": "A fire sleeps under the snow that seals it, and the men who find it open the seal in order to fight it."
     },
     {
       "kind": "bestiary",
-      "id": "zombiefeuer",
-      "title": "Zombie Fire",
-      "description": "A fire crosses the winter under the snow and stands back up, and the record files it as a stranger."
+      "id": "moorleiche",
+      "title": "Bog Body",
+      "description": "A fire declared extinguished goes underground into peat, and all that is done to kill it there feeds it instead."
     },
     {
       "kind": "bestiary",
