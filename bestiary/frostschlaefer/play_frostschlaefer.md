@@ -60,36 +60,48 @@ is a fire whose discovery is the thing that lets it out.
 
 The closed cast. A production draws from here and no further.
 
-- **das Wesen**, the fire, speaking: rationed, patient, and no longer a child. It
-  nips rather than burns, and when the roof cracks it does not lunge upward: it
-  withdraws into the cold root channels and pushes its heat down like a glowing
-  egg, away from a searching finger. That restraint is new in this house.
-- **Martin, der Förster**, the one who finds it: a hand on the bark of a young
-  silver fir, a glove off with the teeth, a palm in the morass, fingers to the
-  nose. He diagnoses correctly by body alone and reports it plainly. He is worried
-  about his larches.
-- **die Löschgruppe**, arriving: a heavy four-wheel diesel at idle, chains in the
-  crust, yellow light through snowed crowns, and a voice asking where the hotspot
-  is because the instruments say nowhere.
-- **die Schonung**, the place: a young plantation on a slope under two feet of
-  snow, deer and dormouse tracks across it, sector Delta-Four, next to the new
-  planting.
-- **der weiße Sarg**, the piece: the snow cover. Coffin and fur coat, the thing
-  that seals the fire in and the cold out, and the only real constraint on it.
-- **das schwarze Auge**, the piece: the melt hole. A naked eye of black peat in
-  flawless white, barely the size of a hand, with a hair-thin thread of warm
-  vapour breaking the frost air. It is the fire's one visible sign and it is
-  legible to anyone looking down.
-- **die Erdlanze**, the piece: the coupled rods, driven to a metre, ten bar.
-- **das Sparen**, the process: living on rationed intake, a root a month, half a
-  leaf a week, a heartbeat every three hours.
-- **das Zurückweichen**, the process: pushing the heat downward and away from a
-  disturbance instead of rising to it.
-- **Anstechen**, the plan: the attack, run by the Löschgruppe. Couple the rods,
-  pierce to one metre, flood the mycelium before the wind turns.
-- **die Kalte Stimme**, the pitch: the default key, tuned to a whisper.
+**Personas:**
 
-Files for these land with the board; here they are named, not linked.
+- [das Wesen](persona_das_wesen.md), the fire, speaking: rationed, patient, and
+  no longer a child. It nips rather than burns, and when the roof cracks it does
+  not lunge upward.
+- [Martin](persona_martin.md), the forester who finds it: a glove off with the
+  teeth, a palm in the morass, fingers to the nose, and a correct diagnosis over
+  the radio. He is worried about his larches.
+- [die Löschgruppe](persona_die_loeschgruppe.md), arriving: heavy diesel at idle,
+  chains in the crust, and a voice asking where the hotspot is because the
+  instruments say nowhere.
+
+**Processes:**
+
+- [das Sparen](process_das_sparen.md), the rationing: a root a month, half a leaf
+  a week, a heartbeat every three hours.
+- [das Zurückweichen](process_das_zurueckweichen.md), the withdrawal: heat pushed
+  down and away from a disturbance instead of rising to it.
+
+**Places:**
+
+- [die Schonung](place_die_schonung.md): a young plantation on a slope under two
+  feet of snow, sector Delta-Four, beside the new planting.
+
+**Pieces:**
+
+- [die Schneedecke](piece_die_schneedecke.md): the snow cover. Coffin and fur
+  coat, and the only real constraint on the fire.
+- [das schwarze Auge](piece_das_schwarze_auge.md): the melt hole. A naked eye of
+  black peat in flawless white, with a thread of warm vapour standing out of it.
+- [die Erdlanze](piece_die_erdlanze.md): the coupled rods, driven to a metre, ten
+  bar.
+
+**Plans:**
+
+- [Anstechen](plan_anstechen.md), the attack, run by the Löschgruppe. Couple the
+  rods, pierce to one metre, flood the mycelium before the wind turns.
+
+**Pitch:**
+
+- [die Kalte Stimme](pitch_die_kalte_stimme.md), the default key, tuned to a
+  whisper.
 
 ## Triggers
 
