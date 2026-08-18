@@ -64,15 +64,18 @@ The closed cast. A production draws from here and no further.
 
 - **das Wesen**, the fire, speaking: dormant, patient, and reduced to retained
   heat. It has crossed a winter, which nothing else in the house has done.
-- **der Förster**, the one who walks the ground in the closed season: snow, a
-  route, and no reason to look down.
+- **der Truppführer**, the one who closes the file in autumn: competent,
+  correct, and finished. His competence stops being relevant the moment the
+  mandate ends, which is the point of him.
 - **die Brandstatistik**, the office that counts fires and dates them: it decides
   what is a new fire and what is a continuation, and it has no category for the
   second.
 - **die Schneedecke**, the place: the snow layer over the burned ground, which
   insulates the thing it hides and reports it in one place only.
-- **der Schmelzring**, the piece: the ring of thawed snow over warm ground, which
-  the member calls diagnostic, and which is read here as a deer bed or a spring.
+- **der Schmelzring**, the piece: the ring of thawed snow over warm ground. The
+  member calls the melt rings diagnostic, so the sign is legible: it is simply
+  never in front of anyone. It is the production's one piece of evidence and it
+  is unobserved, not misread.
 - **die Brandakte**, the piece: the file, closed in autumn and opened again in
   spring under a different number.
 - **das Überdauern**, the process: living on retained heat below the frost, doing
@@ -94,9 +97,11 @@ Four plots, each closing on the next one's cue.
    closed, the crews are gone, and the entity goes below the frost. Cue: the
    first snow that stays. Closes when the file is closed, which fires:
 2. **Die Dunkelziffer.** The winter, at length: December, January, February,
-   March. Nothing happens, and the nothing is the movement. Its one sign is a
-   ring of thawed snow that a walker reads as an animal's bed. Closes when the
-   surface begins to dry, which fires:
+   March. Nothing happens, and the nothing is the movement. No human being
+   appears in it at all: the ground is frozen and under snow, the file is closed,
+   and nobody is assigned. Its one sign, a ring of thawed snow over warm ground,
+   forms and refreezes and forms again with no one on the ground to see it.
+   Closes when the surface begins to dry, which fires:
 3. **Das Aufstehen.** Air reaches it, the fuels cure, and it stands back up into
    flame for the first time since autumn, behaving exactly like any surface fire
    that has just started. Closes when it is seen and reported, which fires:
@@ -115,8 +120,10 @@ in danger. What is contested is identity, and the contest is one-sided: the
 entity has no way to make a claim, and the office has no field to record one in.
 
 Every plot moves it. Das Zudecken closes the record while the thing it describes
-is still alive. Die Dunkelziffer is the stake held in suspension for four months,
-with one piece of evidence lying in plain sight and no one to read it. Das
+is still alive, and ends the mandate that would have kept anyone looking. Die
+Dunkelziffer is the stake held in suspension for four months, with one legible
+piece of evidence on the ground and nobody present: the failure is absence, not
+error, which is what separates this production from the two before it. Das
 Aufstehen returns the entity to visibility in the worst possible form, looking
 exactly like something new. Der fremde Name settles it on paper, and the paper is
 what survives.
