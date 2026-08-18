@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-phoenix",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "bestiary": [
     {
       "kind": "bestiary",
@@ -14,6 +14,12 @@
       "id": "moorleiche",
       "title": "Bog Body",
       "description": "A fire declared extinguished goes underground into peat, and all that is done to kill it there feeds it instead."
+    },
+    {
+      "kind": "bestiary",
+      "id": "zombiefeuer",
+      "title": "Zombie Fire",
+      "description": "A fire crosses the winter under the snow and stands back up, and the record files it as a stranger."
     },
     {
       "kind": "bestiary",
