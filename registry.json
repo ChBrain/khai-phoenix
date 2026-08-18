@@ -1,13 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-phoenix",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "bestiary": [
     {
       "kind": "bestiary",
       "id": "erdbaecker",
       "title": "The Earth Baker",
       "description": "A fire survives by becoming undetectable, and the mineral soil that nearly starves it is the same thing that hides it."
+    },
+    {
+      "kind": "bestiary",
+      "id": "frostschlaefer",
+      "title": "Frost Sleeper",
+      "description": "A fire sleeps under the snow that seals it, and the men who find it open the seal in order to fight it."
     },
     {
       "kind": "bestiary",
