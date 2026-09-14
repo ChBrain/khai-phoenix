@@ -43,7 +43,7 @@
     "release": "changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^3.0.1",
+    "@changesets/cli": "^3.0.2",
     "@chbrain/khai-arch": "^0.1.0",
     "@chbrain/khai-language": "^0.1.0",
     "@chbrain/khai-tests": "^0.1.0",
